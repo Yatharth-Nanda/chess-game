@@ -4,7 +4,7 @@ A basic implementation of a chess game using Java Swing, with various functional
 
 ### New Functionalities (Last Update):
 
-- Added functionality for the rare en passant rule
+- Added functionality for the en passant rule
 - Stalemate functionality is now working
 - Castling the king is now possible
 
