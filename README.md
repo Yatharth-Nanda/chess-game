@@ -1,15 +1,17 @@
-# A basic implementation of a chess game which also uses java swing
+## Chess Game Implementation with Java Swing
 
-# New functionalities added in last update
+A basic implementation of a chess game using Java Swing, with various functionalities and recent updates.
 
-1 added functionality for the rare enpassant rule works 
-2 stalemate is now working 
-3 You can now castle the king 
+### New Functionalities (Last Update):
 
-# Other functionalities
+- Added functionality for the rare en passant rule
+- Stalemate functionality is now working
+- Castling the king is now possible
 
-1 capture pieces works 
-2 promote pawn to knight or bishop or queen or rook works 
-3 checkmate is now working 
+### Other Functionalities:
 
-For feedback and issues please mail yatharthnanda25@gmail.com
+- Capture pieces functionality is operational
+- Promotion of pawns to knight, bishop, queen, or rook is supported
+- Checkmate functionality is now working
+
+For feedback and issues, please contact: [yatharthnanda25@gmail.com](mailto:yatharthnanda25@gmail.com)
